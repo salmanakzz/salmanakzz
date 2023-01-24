@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Salman Vp 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ReactJS+Developer;JavaScript+TypeScript;NodeJS+MongoDB;Problem+Solving;Self+Learning;Learning+new+things)](https://git.io/typing-svg)
 
