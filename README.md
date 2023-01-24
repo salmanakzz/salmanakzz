@@ -1,6 +1,14 @@
-### Hi, I'm Salman Vp 👋
+<h1 align="center">Hi, I'm Salman Vp 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ReactJS+Developer;JavaScript+TypeScript;NodeJS+MongoDB;Problem+Solving;Self+Learning;Learning+new+things)](https://git.io/typing-svg)
+
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=JavaScript+Developer;ReactJS+TypeScript;NodeJS+MongoDB;Problem+Solving;Self+Learning;Learning+new+things" alt="Typing SVG" /></a></div>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 
 <!--
 **salmanakzz/salmanakzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
